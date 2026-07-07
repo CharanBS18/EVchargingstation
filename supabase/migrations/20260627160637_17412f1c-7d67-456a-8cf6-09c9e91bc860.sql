@@ -1,0 +1,1 @@
+ALTER TABLE public.chargers ALTER COLUMN price_per_kwh DROP DEFAULT; ALTER TABLE public.chargers ALTER COLUMN price_per_kwh DROP NOT NULL;

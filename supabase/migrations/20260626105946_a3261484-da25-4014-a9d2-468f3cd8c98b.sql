@@ -1,0 +1,1 @@
+ALTER TABLE public.bookings ADD COLUMN IF NOT EXISTS hidden_from_recent boolean NOT NULL DEFAULT false;

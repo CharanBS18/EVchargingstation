@@ -1,0 +1,10 @@
+# EV ChargeHub
+
+> India's smart EV charging booking platform — find nearby stations, reserve a slot, and skip the queue.
+
+EV ChargeHub helps EV drivers in India discover live charging stations on an interactive map, reserve a bay in seconds, and pay securely. Premium subscribers get priority slots and longer reservations.
+
+## Pages
+
+- [Home](/): Overview of EV ChargeHub, features, and pricing.
+- [Sign in](/auth): Sign in or create an EV ChargeHub account.

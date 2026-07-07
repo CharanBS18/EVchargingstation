@@ -1,0 +1,1 @@
+UPDATE public.chargers SET status = 'available' WHERE status = 'occupied';
